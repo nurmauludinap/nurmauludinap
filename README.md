@@ -1,12 +1,13 @@
-### Halo semua! 👋
+### Hi, guys! 👋
 
-Perkenalkan nama saya **Nur Mauludina Putri**.
+Let me introduce myself. I'm **Nur Mauludina Putri**, you can call me **Dina**.
 
-Saya seorang **Computer Science Student** di [Universitas Pendidikan Indonesia](https://www.upi.edu/) dan sedang menempuh semester 6 dengan mengikuti program **Bangkit** dengan mengambil **Android Learning Path**.
+I'm a **Computer Science Student** at [Indonesia University of Education](https://www.upi.edu/), currently on 6th semester and attend **Bangkit** program in **Android Learning Path**.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nurmauludina/)ku ya.
+If you are interested to getting know me better, please follow my [Linkedin](https://www.linkedin.com/in/nurmauludina/) account.
 
 - 🌱 I’m currently learning Mobile Development (Java/Kotlin/Flutter)
 - 💬 Ask me about anything!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love cats!
+- ✉️ How to reach me: nurmauludinap@gmail.com
